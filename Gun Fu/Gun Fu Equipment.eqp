@@ -1,0 +1,78 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "1bbbb2a4-2825-4d7c-a571-d564e68bc7f5",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Concealed Back Holster",
+			"reference": "GF42",
+			"tech_level": "6",
+			"tags": [
+				"Firearm Accessories"
+			],
+			"quantity": 1,
+			"value": 50,
+			"weight": "1 lb",
+			"calc": {
+				"extended_value": 50,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "058311ba-6c50-4ea1-b9e7-5498e1d1b206",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Sleeve Holster",
+			"reference": "GF43",
+			"tech_level": "6",
+			"tags": [
+				"Firearm Accessories"
+			],
+			"quantity": 1,
+			"value": 500,
+			"weight": "0.5 lb",
+			"calc": {
+				"extended_value": 500,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "d60312ce-3856-40e6-aaa5-f22e87f1a6e9",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Fast-Draw Back Scabbard",
+			"reference": "GF43",
+			"tech_level": "6",
+			"tags": [
+				"Firearm Accessories"
+			],
+			"quantity": 1,
+			"value": 100,
+			"weight": "2 lb",
+			"calc": {
+				"extended_value": 100,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "a6baf7fc-6be2-46c5-9d3d-2d05b70395ca",
+			"type": "equipment_container",
+			"open": true,
+			"description": "Fast-Draw Rig",
+			"reference": "GF43",
+			"tech_level": "7",
+			"tags": [
+				"Firearm Accessories"
+			],
+			"quantity": 1,
+			"value": 500,
+			"weight": "3 lb",
+			"calc": {
+				"extended_value": 500,
+				"extended_weight": "3 lb"
+			}
+		}
+	]
+}

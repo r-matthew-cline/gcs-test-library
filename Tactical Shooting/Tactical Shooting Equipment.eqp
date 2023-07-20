@@ -1,0 +1,99 @@
+{
+	"type": "equipment_list",
+	"version": 4,
+	"rows": [
+		{
+			"id": "8378d0da-ab4e-40fd-be93-764e1feb659a",
+			"type": "equipment",
+			"description": "Two-Point Sling, Leather",
+			"reference": "TS72",
+			"tech_level": "5",
+			"tags": [
+				"Mountings",
+				"Tactical Equipment"
+			],
+			"quantity": 1,
+			"value": 10,
+			"weight": "0.5 lb",
+			"calc": {
+				"extended_value": 10,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "523b209f-df99-4079-bfb2-a3aaed748a2f",
+			"type": "equipment",
+			"description": "One-Point Sling, Expensive",
+			"reference": "TS71",
+			"notes": "+1 Fast Draw (Long Arm)",
+			"tech_level": "5",
+			"tags": [
+				"Mountings",
+				"Tactical Equipment"
+			],
+			"quantity": 1,
+			"value": 20,
+			"weight": "0.5 lb",
+			"calc": {
+				"extended_value": 20,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "62fb8046-2fb2-40db-9c9c-2b284377572b",
+			"type": "equipment",
+			"description": "One-Point Sling, Leather",
+			"reference": "TS71",
+			"notes": "+1 Fast Draw (Long Arm)",
+			"tech_level": "5",
+			"tags": [
+				"Mountings",
+				"Tactical Equipment"
+			],
+			"quantity": 1,
+			"value": 10,
+			"weight": "0.8 lb",
+			"calc": {
+				"extended_value": 10,
+				"extended_weight": "0.8 lb"
+			}
+		},
+		{
+			"id": "817733cf-0259-4c02-afd3-eafd00277b17",
+			"type": "equipment",
+			"description": "Pistol Holster, Pocket",
+			"reference": "TS72",
+			"notes": "reduced (-2) Fast Draw penalty",
+			"tech_level": "5",
+			"tags": [
+				"Mountings",
+				"Tactical Equipment"
+			],
+			"quantity": 1,
+			"value": 50,
+			"weight": "0.5 lb",
+			"calc": {
+				"extended_value": 50,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "b4c2084b-3174-4e8c-925b-3df6528c9220",
+			"type": "equipment",
+			"description": "Sling Swivels",
+			"reference": "TS71",
+			"tech_level": "5",
+			"tags": [
+				"Mountings",
+				"Tactical Equipment"
+			],
+			"quantity": 1,
+			"value": 20,
+			"weight": "0.1 lb",
+			"calc": {
+				"extended_value": 20,
+				"extended_weight": "0.1 lb"
+			}
+		}
+	]
+}
